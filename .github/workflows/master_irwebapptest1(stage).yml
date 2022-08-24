@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'irwebapptest1'
           slot-name: 'stage'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A9C20B25BC5A4A46899424CD7EDC9633 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B4D41664D11942FD87013D63350E186C }}
           package: .
